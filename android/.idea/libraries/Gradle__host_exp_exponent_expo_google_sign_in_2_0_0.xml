@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: host.exp.exponent:expo-google-sign-in-2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-google-sign-in-2.0.0.aar/cff6c199f25e23cef4edc74796bc1d06/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-google-sign-in-2.0.0.aar/cff6c199f25e23cef4edc74796bc1d06/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/expokit/maven/host/exp/exponent/expo-google-sign-in/2.0.0/expo-google-sign-in-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

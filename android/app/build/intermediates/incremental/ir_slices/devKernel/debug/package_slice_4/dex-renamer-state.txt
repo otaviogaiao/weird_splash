@@ -1,0 +1,4 @@
+#Thu May 02 07:22:01 BRT 2019
+base.0=/Users/otavio/Documents/MeusProjetos/splash/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
